@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Alex Christescu",
+    "occupation":"Front-end Developer",
+    "description":"To briefly describe myself, I am a hardworking guy who likes new challenges and always wants to improve and learn.",
+    "image":"pozaprofil.jpg",
+    "bio":"I am 20 years old and currently a student of Computer science at University of Craiova. I have started learning web programming a few  months ago and got familiarized with the basics of HTML, CSS and Javascript. I like to learn and so far I have learned a few programming languages, but I think web programming suits me the best. At this moment I am studying ReactJS and MySQL, but in the future I want to become a full-stack developer.",
+    "contactmessage":" You can contact me anytime!",
+    "email": "alex.christescu@gmail.com",
+    "skype": "live:alex.christescu_1",
+    "phone": "+40730240101",
+    "address":{
+      "street":"Visinului nr.7",
+      "city":"Craiova",
+      "county":"Dolj",
+      "zip": "200124"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/afa8c0a4-fca9-4607-a52c-faeb59a9f33e?view=html",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/alex.christescu",
+        "className":"fa fa-facebook"
+      },
+
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alexandru-christescu-4000b0196/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/alexchristescu/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/alexchristescu",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some skills of mine",
+    "education":[
+      {
+        "school":"University of Craiova",
+        "degree": "Computer sciene",
+        "graduated":"Ongoing"
+
+      },
+      {
+        "school":"National College Carol I ",
+        "degree":"Computer sciene and mathematics",
+        "graduated":"June 2017"
+
+      },
+      {
+        "school":"Scoala informala de IT",
+        "degree":"Web Development",
+        "graduated":"July 2020"
+
+      }
+    ],
+
+    "skills":[
+      {
+        "name":"Git",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"30%"
+      }
+    ]
+  }
+
+}
