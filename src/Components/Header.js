@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 class Header extends Component {
-  render() {
+  render() {     
 
     if(this.props.data){
       var name = this.props.data.name;
